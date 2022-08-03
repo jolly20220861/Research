@@ -1,2 +1,2 @@
 # Research
-Compilation of reflections and learnings for Software Development.
+Compilation of reflectiveJournal.md which aid in learning Software Development. 
