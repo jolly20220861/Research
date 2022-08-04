@@ -1,3 +1,3 @@
 # Software Development
 ## Research Repository
-Compilation of [Reflective Journals](Reflective Journal.md) which aid in learning Software Development. 
+Compilation of [Reflective Journals](Reflective%20Journal.md) which aid in learning Software Development. 
