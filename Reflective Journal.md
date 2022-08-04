@@ -23,3 +23,7 @@ Below are some of the programming principles that I have discovered yet needs to
       
 ### Can you share your favourite Scratch project that you have made or remixed?
 I am more than happy to share my first ever project. Check out my [Hello World in Scratch](https://scratch.mit.edu/projects/718084602).
+
+
+###### Reference:
+Programming Principles from [10 Coding Principles Every Programmer Should Learn](https://dzone.com/articles/10-coding-principles-every-programmer-should-learn)
